@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NetWorking_Uri_Dns_Ping_HttpClient/1.0.0": {
+        "runtime": {
+          "NetWorking_Uri_Dns_Ping_HttpClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetWorking_Uri_Dns_Ping_HttpClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "section1": {
+    "data1": "ABCDE",
+    "data2": 123456
+  },
+
+  "MyServiceOptions": {
+    "data1": "Test",
+    "data2": 789
+  }
+}

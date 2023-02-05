@@ -1,0 +1,15 @@
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\bin\Debug\net6.0\delegate.exe
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\bin\Debug\net6.0\delegate.deps.json
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\bin\Debug\net6.0\delegate.runtimeconfig.json
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\bin\Debug\net6.0\delegate.dll
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\bin\Debug\net6.0\delegate.pdb
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.csproj.AssemblyReference.cache
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.AssemblyInfoInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.AssemblyInfo.cs
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.dll
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\refint\delegate.dll
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.pdb
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\delegate.genruntimeconfig.cache
+T:\Wep\learnCode\Learn aspnetcore\delegate\delegate\obj\Debug\net6.0\ref\delegate.dll

@@ -1,0 +1,15 @@
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\bin\Debug\net6.0\phuongthucmorong.exe
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\bin\Debug\net6.0\phuongthucmorong.deps.json
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\bin\Debug\net6.0\phuongthucmorong.runtimeconfig.json
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\bin\Debug\net6.0\phuongthucmorong.dll
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\bin\Debug\net6.0\phuongthucmorong.pdb
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.csproj.AssemblyReference.cache
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.AssemblyInfoInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.AssemblyInfo.cs
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.dll
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\refint\phuongthucmorong.dll
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.pdb
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\phuongthucmorong.genruntimeconfig.cache
+T:\Wep\learnCode\Learn aspnetcore\phuongthucmorong\phuongthucmorong\obj\Debug\net6.0\ref\phuongthucmorong.dll

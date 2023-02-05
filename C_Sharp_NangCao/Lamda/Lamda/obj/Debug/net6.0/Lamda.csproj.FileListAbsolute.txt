@@ -1,0 +1,15 @@
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\bin\Debug\net6.0\Lamda.exe
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\bin\Debug\net6.0\Lamda.deps.json
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\bin\Debug\net6.0\Lamda.runtimeconfig.json
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\bin\Debug\net6.0\Lamda.dll
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\bin\Debug\net6.0\Lamda.pdb
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.csproj.AssemblyReference.cache
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.AssemblyInfoInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.AssemblyInfo.cs
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.dll
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\refint\Lamda.dll
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.pdb
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\Lamda.genruntimeconfig.cache
+T:\Wep\learnCode\Learn aspnetcore\Lamda\Lamda\obj\Debug\net6.0\ref\Lamda.dll

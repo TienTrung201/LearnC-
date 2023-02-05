@@ -1,0 +1,15 @@
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.exe
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.deps.json
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.runtimeconfig.json
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.dll
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.pdb
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.csproj.AssemblyReference.cache
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.AssemblyInfoInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.AssemblyInfo.cs
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.dll
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\refint\QueueStack.dll
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.pdb
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.genruntimeconfig.cache
+T:\Wep\learnCode\Learn aspnetcore\QueueStack\QueueStack\obj\Debug\net6.0\ref\QueueStack.dll

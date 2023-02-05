@@ -1,0 +1,15 @@
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.exe
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.deps.json
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.runtimeconfig.json
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.dll
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\bin\Debug\net6.0\Asynchronous.pdb
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.csproj.AssemblyReference.cache
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.AssemblyInfoInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.AssemblyInfo.cs
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.dll
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\refint\Asynchronous.dll
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.pdb
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\Asynchronous.genruntimeconfig.cache
+T:\Wep\learnCode\Learn aspnetcore\Asynchronous\Asynchronous\obj\Debug\net6.0\ref\Asynchronous.dll

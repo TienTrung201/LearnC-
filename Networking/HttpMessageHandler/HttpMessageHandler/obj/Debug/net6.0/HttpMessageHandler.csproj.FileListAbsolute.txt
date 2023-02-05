@@ -1,0 +1,15 @@
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\bin\Debug\net6.0\HttpMessageHandler.exe
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\bin\Debug\net6.0\HttpMessageHandler.deps.json
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\bin\Debug\net6.0\HttpMessageHandler.runtimeconfig.json
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\bin\Debug\net6.0\HttpMessageHandler.dll
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\bin\Debug\net6.0\HttpMessageHandler.pdb
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.csproj.AssemblyReference.cache
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.AssemblyInfoInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.AssemblyInfo.cs
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.dll
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\refint\HttpMessageHandler.dll
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.pdb
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\HttpMessageHandler.genruntimeconfig.cache
+T:\Wep\learnCode\LearnAspnetcore\Networking\HttpMessageHandler\HttpMessageHandler\obj\Debug\net6.0\ref\HttpMessageHandler.dll

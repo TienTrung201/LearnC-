@@ -1,0 +1,15 @@
+T:\Wep\learnCode\Learn aspnetcore\List\List\bin\Debug\net6.0\List.exe
+T:\Wep\learnCode\Learn aspnetcore\List\List\bin\Debug\net6.0\List.deps.json
+T:\Wep\learnCode\Learn aspnetcore\List\List\bin\Debug\net6.0\List.runtimeconfig.json
+T:\Wep\learnCode\Learn aspnetcore\List\List\bin\Debug\net6.0\List.dll
+T:\Wep\learnCode\Learn aspnetcore\List\List\bin\Debug\net6.0\List.pdb
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.dll
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\refint\List.dll
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.pdb
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\List.genruntimeconfig.cache
+T:\Wep\learnCode\Learn aspnetcore\List\List\obj\Debug\net6.0\ref\List.dll

@@ -1,0 +1,15 @@
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\bin\Debug\net6.0\typeAttributeC.exe
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\bin\Debug\net6.0\typeAttributeC.deps.json
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\bin\Debug\net6.0\typeAttributeC.runtimeconfig.json
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\bin\Debug\net6.0\typeAttributeC.dll
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\bin\Debug\net6.0\typeAttributeC.pdb
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.csproj.AssemblyReference.cache
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.AssemblyInfoInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.AssemblyInfo.cs
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.dll
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\refint\typeAttributeC.dll
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.pdb
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\typeAttributeC.genruntimeconfig.cache
+T:\Wep\learnCode\Learn aspnetcore\typeAttributeC\typeAttributeC\obj\Debug\net6.0\ref\typeAttributeC.dll

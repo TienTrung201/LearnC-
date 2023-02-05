@@ -1,0 +1,15 @@
+T:\Wep\learnCode\LearnAspnetcore\newFolder\bin\Debug\net7.0\newFolder.exe
+T:\Wep\learnCode\LearnAspnetcore\newFolder\bin\Debug\net7.0\newFolder.deps.json
+T:\Wep\learnCode\LearnAspnetcore\newFolder\bin\Debug\net7.0\newFolder.runtimeconfig.json
+T:\Wep\learnCode\LearnAspnetcore\newFolder\bin\Debug\net7.0\newFolder.dll
+T:\Wep\learnCode\LearnAspnetcore\newFolder\bin\Debug\net7.0\newFolder.pdb
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.csproj.AssemblyReference.cache
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.AssemblyInfoInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.AssemblyInfo.cs
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.dll
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\refint\newFolder.dll
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.pdb
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\newFolder.genruntimeconfig.cache
+T:\Wep\learnCode\LearnAspnetcore\newFolder\obj\Debug\net7.0\ref\newFolder.dll

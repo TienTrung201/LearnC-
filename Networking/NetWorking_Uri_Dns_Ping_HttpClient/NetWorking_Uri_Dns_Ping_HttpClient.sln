@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorking_Uri_Dns_Ping_HttpClient", "NetWorking_Uri_Dns_Ping_HttpClient\NetWorking_Uri_Dns_Ping_HttpClient.csproj", "{2159EF1C-9479-4C33-88CB-D08C7B6E72BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2159EF1C-9479-4C33-88CB-D08C7B6E72BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2159EF1C-9479-4C33-88CB-D08C7B6E72BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2159EF1C-9479-4C33-88CB-D08C7B6E72BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2159EF1C-9479-4C33-88CB-D08C7B6E72BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C501EC08-878F-4482-BD85-E7C04246095B}
+	EndGlobalSection
+EndGlobal
