@@ -1,0 +1,15 @@
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\bin\Debug\net7.0\Class1.exe
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\bin\Debug\net7.0\Class1.deps.json
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\bin\Debug\net7.0\Class1.runtimeconfig.json
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\bin\Debug\net7.0\Class1.dll
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\bin\Debug\net7.0\Class1.pdb
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.csproj.AssemblyReference.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.AssemblyInfoInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.AssemblyInfo.cs
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.dll
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\refint\Class1.dll
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.pdb
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\Class1.genruntimeconfig.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai2Class\Class1\obj\Debug\net7.0\ref\Class1.dll

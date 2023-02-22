@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UmwrvbMYuADaRFgay+yD0idG9gadMeCkVM+rho7yY6VN5CLfDeqFnmvK2IN8XBJhc3jDG3wNpGNSTVyiKHpUkg==",
+  "dgSpecHash": "HM9GO8iMwXpsM9rbkfk49kVmbOqUlLkwHsh8egmoc1mGgMgVBLmf2zPlq8io6+C8yvw9zkw8qldm8DUXA6FNLQ==",
   "success": true,
-  "projectFilePath": "T:\\Wep\\learnCode\\LearnAspnetcore\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj",
+  "projectFilePath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

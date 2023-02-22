@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Wep\\learnCode\\Learn aspnetcore\\Lamda\\Lamda\\Lamda.csproj": {}
+    "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\Lamda\\Lamda\\Lamda.csproj": {}
   },
   "projects": {
-    "T:\\Wep\\learnCode\\Learn aspnetcore\\Lamda\\Lamda\\Lamda.csproj": {
+    "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\Lamda\\Lamda\\Lamda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Wep\\learnCode\\Learn aspnetcore\\Lamda\\Lamda\\Lamda.csproj",
+        "projectUniqueName": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\Lamda\\Lamda\\Lamda.csproj",
         "projectName": "Lamda",
-        "projectPath": "T:\\Wep\\learnCode\\Learn aspnetcore\\Lamda\\Lamda\\Lamda.csproj",
+        "projectPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\Lamda\\Lamda\\Lamda.csproj",
         "packagesPath": "C:\\Users\\tient\\.nuget\\packages\\",
-        "outputPath": "T:\\Wep\\learnCode\\Learn aspnetcore\\Lamda\\Lamda\\obj\\",
+        "outputPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\Lamda\\Lamda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tient\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\Wep\\learnCode\\Learn aspnetcore\\LINQ\\LINQ\\LINQ.csproj",
+      "projectUniqueName": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\LINQ\\LINQ\\LINQ.csproj",
       "projectName": "LINQ",
-      "projectPath": "T:\\Wep\\learnCode\\Learn aspnetcore\\LINQ\\LINQ\\LINQ.csproj",
+      "projectPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\LINQ\\LINQ\\LINQ.csproj",
       "packagesPath": "C:\\Users\\tient\\.nuget\\packages\\",
-      "outputPath": "T:\\Wep\\learnCode\\Learn aspnetcore\\LINQ\\LINQ\\obj\\",
+      "outputPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\LINQ\\LINQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tient\\AppData\\Roaming\\NuGet\\NuGet.Config",

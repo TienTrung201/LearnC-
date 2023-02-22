@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Wep\\learnCode\\LearnAspnetcore\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj": {}
+    "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj": {}
   },
   "projects": {
-    "T:\\Wep\\learnCode\\LearnAspnetcore\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj": {
+    "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Wep\\learnCode\\LearnAspnetcore\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj",
+        "projectUniqueName": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj",
         "projectName": "dependentcyInjection",
-        "projectPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj",
+        "projectPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\dependentcyInjection\\dependentcyInjection\\dependentcyInjection.csproj",
         "packagesPath": "C:\\Users\\tient\\.nuget\\packages\\",
-        "outputPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\dependentcyInjection\\dependentcyInjection\\obj\\",
+        "outputPath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\dependentcyInjection\\dependentcyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tient\\AppData\\Roaming\\NuGet\\NuGet.Config",

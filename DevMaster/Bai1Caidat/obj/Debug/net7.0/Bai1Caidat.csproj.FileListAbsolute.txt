@@ -1,0 +1,15 @@
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\bin\Debug\net7.0\Bai1Caidat.exe
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\bin\Debug\net7.0\Bai1Caidat.deps.json
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\bin\Debug\net7.0\Bai1Caidat.runtimeconfig.json
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\bin\Debug\net7.0\Bai1Caidat.dll
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\bin\Debug\net7.0\Bai1Caidat.pdb
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.csproj.AssemblyReference.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.GeneratedMSBuildEditorConfig.editorconfig
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.AssemblyInfoInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.AssemblyInfo.cs
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.csproj.CoreCompileInputs.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.dll
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\refint\Bai1Caidat.dll
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.pdb
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\Bai1Caidat.genruntimeconfig.cache
+T:\Wep\learnCode\LearnAspnetcore\DevMaster\Bai1Caidat\obj\Debug\net7.0\ref\Bai1Caidat.dll

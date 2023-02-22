@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEMvBA6NajumKupIz7OJEJRN2tb7fZ8W5YwseYgWRf15fe0aLOANJ3E0Tb1TAS1DpUTXtl0ZoVBBzLkvSKuQEQ==",
+  "dgSpecHash": "nw2gvmtDbml53UwrlzCvzDBZoCPcpYdvmjv4BggipY4OrPrDux4T0VNVmx+qWstGSFI9McpCH2pd+YFaEzxVWQ==",
   "success": true,
-  "projectFilePath": "T:\\Wep\\learnCode\\Learn aspnetcore\\delegate\\delegate\\delegate.csproj",
+  "projectFilePath": "T:\\Wep\\learnCode\\LearnAspnetcore\\C_Sharp_NangCao\\delegate\\delegate\\delegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

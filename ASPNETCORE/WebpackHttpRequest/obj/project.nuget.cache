@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXnJqnDdIxJb+SdYCEAKmvZZMU2WmomS5d/nGxMh9u10gVDe0xit4HCckvEW0sZD1SEIMg7ey1AUu9d3cM+xRw==",
+  "success": true,
+  "projectFilePath": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNETCORE\\WebpackHttpRequest\\WebpackHttpRequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tient\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
