@@ -1,0 +1,42 @@
+@page "thuchanhModelbiding"
+@model ModelBinding
+@{
+    ViewData["title"]="ModelBiding";
+}
+
+<form method="post" asp-page="ModelBiding">
+    <div class="mb-3">
+        <label asp-for="@Model.userContact.UserId"></label>
+        <input asp-for="@Model.userContact.UserId" />
+    <span class="text-danger" asp-validation-for="@Model.userContact.UserId"></span>
+
+    </div >
+    <div class="mb-3">
+
+        <label asp-for="@Model.userContact.Email"></label>
+
+<input asp-for="@Model.userContact.Email" />
+    <span class="text-danger" asp-validation-for="@Model.userContact.Email"></span>
+
+     </div>   
+    <button  class="btn btn-danger " type="submit">Gửi</button>
+</form>
+<div class="card bg-success">
+    <div class="card-body text-white">
+        <p>Dữ liệu trong Model:</p>
+        <ul>
+            @if(@Model.userContact!=null){
+                    <li>ProductID: @Model.userContact.ProductID</li>
+            <li>UserName: @Model.userContact.UserId</li>
+            <li>Email: @Model.userContact.Email</li>
+            }else{
+                <p>Không có gì</p>
+            }
+        
+            @* <li>Color: @Model.userContact.Color</li> *@
+        </ul>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"/>
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEoyRlqJdBf9n4pKJcTEaTpbHI63GpvHlbfRu8CWr9bePJ7rKPnZd9itagML2HYECpM58D2dVFv0L7gH3SegnQ==",
+  "success": true,
+  "projectFilePath": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNETCORE\\Middleware\\Middleware\\Middleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

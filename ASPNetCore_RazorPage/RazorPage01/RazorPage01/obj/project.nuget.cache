@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUTmLWDA+SL5TT8YW0bs4r2GJshm7eE+iPhuI7lNFgOjSVgM2ZbE1OVlvNJTPGRaihOMTBOosSgOAmXa0FvVkQ==",
+  "success": true,
+  "projectFilePath": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\RazorPage01\\RazorPage01\\RazorPage01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+@{
+    Layout = "_Mylayout";
+    @* ViewData["title"]="trang dau tien"; *@
+}
+<div class="row">
+    <div class="col-3 bg-warning">sidebar</div>
+    <div class="col-9">@RenderBody()</div>
+</div>
+
+@section noidungfooter{
+            @await RenderSectionAsync("noidungfooter",required:false);
+
+}

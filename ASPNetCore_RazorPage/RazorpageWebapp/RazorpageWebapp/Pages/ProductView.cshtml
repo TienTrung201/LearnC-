@@ -1,0 +1,29 @@
+@page "/ProducView/{id:int?}"
+@model ProductView
+
+@{
+    var product = Model.product;
+    var allProducts=Model.productService.getAllProducts();
+}
+    <h1>@ViewData["sanpham"]</h1>
+@if(product!=null){
+    <p>tên sản phẩm: @product.Name</p>
+    <p>Giá: @product.Price</p>
+    <form
+        method="post" asp-page="ProductView" asp-page-handler="delete" asp-route-id="@product.Id"
+    >
+    <button type="submit" class="btn btn-danger">xóa sản phẩm này</button>
+    </form>
+}else{
+    <ol>
+        @foreach (var p in allProducts)
+        {
+            <li><a asp-page="/ProductView" asp-route-id="@p.Id">sản phảm @p.Name</a></li>
+        }
+    </ol>
+}
+<p>
+    <a class="btn btn-primary" asp-page="ProductView" asp-page-handler="lastproduct">Sản phẩm cuối</a>
+</p><p>
+    <a class="btn btn-danger" asp-page="ProductView" asp-page-handler="removeall">Xóa toàn bộ</a>
+</p>

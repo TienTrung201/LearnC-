@@ -1,0 +1,12 @@
+@using RazorpageWebapp
+@model List<Product>
+<ol class="container row">
+    @foreach (var p in Model)
+    {
+        
+        <li class="col-3 mx-3 bg-warning">
+            <p>name @p.Name</p>
+            <p>giá @p.Price</p>
+        </li>
+    }
+</ol>

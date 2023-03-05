@@ -136,7 +136,7 @@ namespace dependentcyInjection
             return sv;
         }
 
-        public class MyServiceOptions// đây là đói tượng chứa các dữ liệu của đối tượng Myservice
+        public class MyServiceOptions// đây là đói tượng chứa các dữ liệu của đối tượng Myservice k phải la dependentcy
         {
             public string data1 { get; set; }
             public int data2 { get; set; }
@@ -148,7 +148,13 @@ namespace dependentcyInjection
             public int data2 { get; set; }
 
             // Tham số khởi tạo là IOptions, các tham số khởi tạo khác nếu có khai báo như bình thường
-            public MyService(IOptions<MyServiceOptions> options)
+            //Khi một dịch vụ đăng ký trong DI, nếu nó cần các tham số để khởi tạo thì ta có thể Inject
+            //các tham số khởi tạo là các đối tượng như cách làm ở trên. Tuy nhiên để tách bạch giữa các
+            //dịch vụ và các thiết lập truyền vào để khởi tạo dịch vụ thì trong ServiceCollection hỗ
+            //trợ sử dụng giao diện IOptions.
+
+            // quản lý các dependecy ở kv riêng và option để thiết lập các dữ liệu 
+            public MyService(IOptions<MyServiceOptions> options)// cũng giống MyserviceOpton option
             {
                 // Đọc được MyServiceOptions từ IOptions
                 MyServiceOptions opts = options.Value;
@@ -241,10 +247,10 @@ namespace dependentcyInjection
 
 
             IConfigurationRoot configurationroot;
-            ConfigurationBuilder configBuilder2 = new ConfigurationBuilder();
-            configBuilder2.SetBasePath(Directory.GetCurrentDirectory());     // file config ở thư mục hiện tại
+            ConfigurationBuilder configBuilder2 = new ConfigurationBuilder();//ConfigurationBuilder để nạp file cấu hình
+            configBuilder2.SetBasePath(Directory.GetCurrentDirectory());     // SetBasePath: đường dẫn,Directory.GetCurrentDirectory(): đường dân thư mục hiện tại
             configBuilder2.AddJsonFile("cauhinh.json");                  // nạp config định dạng JSON
-            configurationroot = configBuilder2.Build();
+            configurationroot = configBuilder2.Build();//Build(): trả về Interface IConfigurationRoot
 
             var key1 = configurationroot.GetSection("section1").GetSection("data1").Value;
             Console.WriteLine(key1);
@@ -271,7 +277,10 @@ namespace dependentcyInjection
             myservice.PrintData();
 
 
-
+            // serviceCollection để đăng ký, quản lý dịch vụ, là trung tâm của DI
+            //var serviceprovider = services.BuildServiceProvider();
+            //serviceprovider.GetService<ServiceType>(): Lấy dịch vụ có kiểu ServiceType - trả về null nếu dịch vụ không tồn tại
+            //Httpcontext context.RequestServices trả về kiểu IserviceProvider
         }
 
 

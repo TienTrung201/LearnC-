@@ -1,0 +1,66 @@
+@page "/daylatrangdautien/{solan:int?}"
+@* @addTagHelper *, Microsoft.AspNetCore.Mvc. *@
+@addTagHelper *, taghelperexample
+@using RazorpageWebapp
+@model FirstPage
+@{
+    ViewData["titleMessage"]="Thông báo message";
+    ViewData["content"]="đây là first page";
+}
+<div class="container">
+    @await Html.PartialAsync("_messageBox")
+</div>
+
+@{
+    var listProduct= new List<Product>(){
+            new Product {Name="iphone", Description="ram 2 gb",Price=200000},
+            new Product {Name="samsung", Description="ram 5 gb",Price=505000},
+            new Product {Name="VIvo", Description="ram 2 gb",Price=204000}
+        };
+            
+    var produt=new Product {Name="iphone", Description="ram 2 gb",Price=200000};
+   <div class="container">
+        <div class="alert alert-danger gx-5 row justify-content-center align-items-center">
+            @* @{
+                listProduct.ToList().ForEach(p=>gello);
+            } *@
+            @foreach (var p in listProduct)
+            {
+                <partial name="_ProductItem" model="p"/>
+            }
+            @* @await Html.PartialAsync("_ProductItem","p")
+            @{
+                await Html.RenderPartialAsync("_ProductItem");
+            } *@
+        </div>
+   </div >
+}
+@await Component.InvokeAsync("ProductBoxComponent",false)
+
+<myul list-title="Danh sách sản phẩm" list-items="@listProduct"></myul>
+
+
+<h2>Đây là view data : @ViewData["tientrung"]</h2>
+<p>@Model.title</p>
+<a  asp-page="Error"> lỗi</a>
+<a  asp-page="./dichvu/dichvu1"> dich vu 1</a>
+
+    <ol>
+
+@{
+    var solan=this.Request.RouteValues["solan"]??"0";
+    int solanlap= Int32.Parse(solan.ToString());
+    int a=10;
+        for (int i=0; i<solanlap; i++){
+            <li>lan lap thu @i</li>
+    } 
+    void write(string hello){
+        <h1>đây là hàm cục bộ @hello</h1>
+    }
+    Write("HÀm");
+}
+    </ol>
+
+@section noidungfooter{
+    <p>Nội dung footer của firstpage</p>
+}

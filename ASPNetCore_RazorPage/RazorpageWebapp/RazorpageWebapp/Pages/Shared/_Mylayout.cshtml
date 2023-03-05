@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["title"]</title>
+     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header class="bg-danger container">
+        <nav class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="nav  row rounded">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Error">Error</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/firstPage">trang dau tien</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/dichvu/dichvu1">dich vu 1</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/dichvu/dichvu2">dich vu2</a>
+                        </li>
+          
+                        <li>
+
+                                <a class="nav-link text-dark"  asp-page="/trangsp" asp-area="Product"> trang product</a>
+                        </li>
+                        <li>
+
+                                <a class="nav-link text-dark"  asp-page="/ProductView" asp-area=""> trang sản phẩm</a>
+                        </li>
+                         <li>
+
+                                <a class="nav-link text-dark"  asp-page="ModelBinding" asp-area=""> ModelBiding</a>
+                        </li>
+                    </ul>
+                </nav>
+    </header>
+    <section class="container">@RenderBody()</section>
+    <footer class="bg-success container">
+        Footer
+        @await RenderSectionAsync("noidungfooter",required:false);// false là có thể thiết lập hoặc không
+
+    </footer>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>
