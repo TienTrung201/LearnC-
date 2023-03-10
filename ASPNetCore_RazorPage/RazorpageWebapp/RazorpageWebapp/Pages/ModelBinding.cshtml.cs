@@ -8,7 +8,7 @@ namespace RazorpageWebapp
     public class ModelBinding:PageModel
     {
            // Binding Email từ dữ liệu từ nguồn tới có tên Email, email, emaIL ...
-        [BindProperty]
+        [BindProperty(SupportsGet =true)]
         public UserContact userContact{set;get;}    
         public void OnGet(){
             // Console.WriteLine(userContact.Email);

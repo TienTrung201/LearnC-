@@ -1,0 +1,44 @@
+@model Product
+@{
+    var product =  ViewData["Product"] as Product;
+}
+@* 
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">@Model.Name</h5>
+    <p class="card-text">@Model.Description</p>
+    <a href="#" class="btn btn-primary">@Model.Id</a>
+  </div>
+</div> *@
+
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">@product.Name</h5>
+    <p class="card-text">@product.Description</p>
+    <a href="#" class="btn btn-primary">@product.Id</a>
+  </div>
+</div>
+
+
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">@ViewBag.product.Name</h5>
+    <p class="card-text">@ViewBag.product.Description</p>
+    <a href="#" class="btn btn-primary">@ViewBag.product.Id</a>
+  </div>
+</div>
+@{
+    var routedata = new Dictionary<string, string>()
+    {
+        {"name","Tientrung"},
+        {"abc","xyx"},
+        {"id","3"}
+    };
+}
+<a asp-action="Index" asp-controller="First" asp-all-route-data="@routedata">vidu</a>
+<a asp-action="ViewProduct" asp-controller="First" asp-all-route-data='new Dictionary<string, string>()
+    {
+        {"id","3"}}'>
+ vidu</a>

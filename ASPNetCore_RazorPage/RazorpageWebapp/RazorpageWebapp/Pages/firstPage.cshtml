@@ -8,6 +8,7 @@
     ViewData["content"]="đây là first page";
 }
 <div class="container">
+    <h1>Đây là Partial</h1>
     @await Html.PartialAsync("_messageBox")
 </div>
 
@@ -20,6 +21,8 @@
             
     var produt=new Product {Name="iphone", Description="ram 2 gb",Price=200000};
    <div class="container">
+    <h1>Đây là Partial</h1>
+
         <div class="alert alert-danger gx-5 row justify-content-center align-items-center">
             @* @{
                 listProduct.ToList().ForEach(p=>gello);
@@ -35,6 +38,8 @@
         </div>
    </div >
 }
+    <h1>Đây là Component</h1>
+
 @await Component.InvokeAsync("ProductBoxComponent",false)
 
 <myul list-title="Danh sách sản phẩm" list-items="@listProduct"></myul>

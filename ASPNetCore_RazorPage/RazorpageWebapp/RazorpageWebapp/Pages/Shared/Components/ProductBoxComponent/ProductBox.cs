@@ -26,7 +26,7 @@ namespace RazorpageWebapp
             _product = productService.listProduct.OrderByDescending(x => x.Price).ToList();
 
         }
-            return View<List<Product>>(_product);
+            return View(_product);
        }
     }
 }
