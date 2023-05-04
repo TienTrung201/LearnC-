@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Cauthu>
+
+@foreach (var ct in Model)
+{
+    <div class="item">
+        <div class="block-4 text-center">
+            <figure class="block-4-image">
+                <img src="/Anhct/images/@ct.Anh" alt="Image placeholder" class="img-fluid">
+            </figure>
+            <div class="block-4-text p-4">
+                <h3><a href="#">@ct.HoVaTen</a></h3>
+                <p class="mb-0">@ct.CauLacBo</p>
+                <p class="text-primary font-weight-bold">@ct.SoAo</p>
+            </div>
+        </div>
+    </div>
+}
+

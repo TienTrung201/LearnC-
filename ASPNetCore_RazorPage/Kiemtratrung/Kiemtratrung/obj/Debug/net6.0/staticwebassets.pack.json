@@ -1,0 +1,1345 @@
+{
+  "Files": [
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Kiemtratrung.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Kiemtratrung.bundle.scp.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1001.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1001.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1002.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1002.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1003.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1003.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1004.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1004.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1005.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1005.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1006.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1006.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1007.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1007.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1008.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1008.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1009.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1009.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1010.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1010.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1011.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1011.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1012.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1012.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1013.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1013.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1014.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1014.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1015.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1015.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1016.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1016.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1017.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1017.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1018.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1018.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1019.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1019.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1020.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1020.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1021.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1021.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1022.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1022.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1023.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1023.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1024.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1024.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1025.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1025.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1026.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1026.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1027.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1027.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1028.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1028.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1029.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1029.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1030.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1030.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1031.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1031.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1032.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1032.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1049.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1049.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1050.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1050.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1051.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1051.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1052.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1052.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1053.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1053.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1054.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1054.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1055.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1055.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1056.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1056.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1057.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1057.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1069.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1069.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1070.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1070.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1071.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1071.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1072.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1072.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1073.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1073.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1074.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1074.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1075.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1075.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1076.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1076.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1077.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1077.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1078.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1078.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1088.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1088.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1089.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1089.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1090.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1090.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1091.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1091.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1092.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1092.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1093.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1093.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1094.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1094.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1095.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1095.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1096.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1096.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1097.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1097.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1098.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1098.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1109.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1109.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1110.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1110.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1111.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1111.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1112.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1112.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1113.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1113.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1114.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1114.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1115.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1115.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1116.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1116.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1117.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1117.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1118.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1118.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1132.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1132.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1133.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1133.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1134.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1134.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1135.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1135.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1136.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1136.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1137.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1137.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1138.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1138.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1139.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1139.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1140.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1140.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1141.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1141.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1142.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1142.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1143.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1143.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1144.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1144.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1145.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1145.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1151.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1151.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1152.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1152.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1153.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1153.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1154.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1154.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1155.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1155.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1156.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1156.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1157.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1157.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1158.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1158.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1159.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1159.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1160.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1160.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1161.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1161.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1162.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1162.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1163.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1163.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1164.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1164.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1165.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1165.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1166.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1166.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1167.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1167.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1168.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1168.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1169.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1169.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1170.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1170.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1171.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1171.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1172.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1172.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1173.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1173.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\1175.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1175.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5001.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5001.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5002.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5002.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5003.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5003.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5004.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5004.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5005.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5005.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5006.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5006.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5007.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5007.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5008.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5008.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5009.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5009.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5010.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5010.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5011.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5011.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5012.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5012.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5013.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5013.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5014.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5014.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5015.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5015.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5016.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5016.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5018.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5018.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5019.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5019.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5020.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5020.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5021.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5021.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5022.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5022.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5023.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5023.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5024.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5024.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5025.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5025.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5026.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5026.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5028.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5028.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5029.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5029.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\5030.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5030.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD01.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD01.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD02.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD02.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD03.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD03.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD04.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD04.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD05.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD05.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD06.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD06.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD07.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD07.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD08.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD08.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD09.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD09.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD10.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD10.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD11.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD11.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD12.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD12.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD13.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD13.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD14.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD14.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD15.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD15.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD16.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD16.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD17.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD17.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD18.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD18.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD19.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD19.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\Anhct\\images\\STD20.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD20.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\css\\home.css.map",
+      "PackagePath": "staticwebassets\\css\\home.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\about\\awards-logo.png",
+      "PackagePath": "staticwebassets\\images\\about\\awards-logo.png"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\avater.jpg",
+      "PackagePath": "staticwebassets\\images\\avater.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\backgrounds\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounds\\bg-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\backgrounds\\coming-soon-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounds\\coming-soon-bg.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\avater-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\avater-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\avater-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\avater-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-4.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\blog-post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\blog-post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\blog-post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-4.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\blog-post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-5.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\blog-post-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-6.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\post-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-5.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\post-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-6.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\post-thumb-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-7.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\blog\\post-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\category\\category-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\category\\category-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\category\\category-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\header-img.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\header-img.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\modal-product.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\modal-product.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-4.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-5.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-6.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-7.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-8.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-9.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\products\\single-product.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\single-product.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\single-products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\single-products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\single-products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\single-products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-4.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\single-products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-5.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\single-products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-6.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\shop\\verified.png",
+      "PackagePath": "staticwebassets\\images\\shop\\verified.png"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\images\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\animate\\animate.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\demo.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\favicon.ico",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\favicon.ico"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\index.html",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\index.html"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.css",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.js",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.css",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.js",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\gmap.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\google-map\\images\\marker.png",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\images\\marker.png"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\instafeed\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\plugins\\instafeed\\instafeed.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\README.markdown",
+      "PackagePath": "staticwebassets\\plugins\\slick\\README.markdown"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\slick-animation.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick-animation.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.min.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.min.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\syo-timer\\build\\jquery.syotimer.min.js",
+      "PackagePath": "staticwebassets\\plugins\\syo-timer\\build\\jquery.syotimer.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\Read Me.txt",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\Read Me.txt"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo-files\\demo.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo-files\\demo.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\demo.html",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo.html"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.eot",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.eot"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.svg",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.svg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.ttf"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.woff",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.woff"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\selection.json",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\selection.json"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNetCore_RazorPage\\Kiemtratrung\\Kiemtratrung\\wwwroot\\plugins\\themefisher-font\\style.css",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Kiemtratrung.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Kiemtratrung.props",
+      "PackagePath": "build\\Kiemtratrung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Kiemtratrung.props",
+      "PackagePath": "buildMultiTargeting\\Kiemtratrung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Kiemtratrung.props",
+      "PackagePath": "buildTransitive\\Kiemtratrung.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

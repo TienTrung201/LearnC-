@@ -1,0 +1,13 @@
+﻿@model List<Sanvandong>
+
+<ul class="site-menu js-clone-nav d-none d-md-block">
+    @foreach(var svd in Model)
+    {
+         <li class="has-children active">
+
+            <a asp-action="CtCLB" asp-controller="Home" asp-route-svdID="@svd.SanVanDongId">@svd.TenSan</a>
+
+    </li>
+    }
+  
+</ul>

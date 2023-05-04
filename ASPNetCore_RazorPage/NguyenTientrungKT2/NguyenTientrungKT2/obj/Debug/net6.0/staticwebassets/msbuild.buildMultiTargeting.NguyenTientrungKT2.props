@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NguyenTientrungKT2.props" />
+</Project>

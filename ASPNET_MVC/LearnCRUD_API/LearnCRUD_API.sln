@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCRUD_API", "LearnCRUD_API\LearnCRUD_API.csproj", "{DA8ADC01-A0AE-460D-AD72-085703BFABBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8ADC01-A0AE-460D-AD72-085703BFABBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8ADC01-A0AE-460D-AD72-085703BFABBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8ADC01-A0AE-460D-AD72-085703BFABBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8ADC01-A0AE-460D-AD72-085703BFABBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CCB215D-84A0-4D58-8AA2-78D4BF8A94D0}
+	EndGlobalSection
+EndGlobal

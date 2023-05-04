@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LearnCRUD_API.props" />
+</Project>

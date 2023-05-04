@@ -1,0 +1,1425 @@
+{
+  "Files": [
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PhamTrungKien.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PhamTrungKien.bundle.scp.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1001.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1001.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1002.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1002.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1003.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1003.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1004.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1004.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1005.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1005.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1006.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1006.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1007.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1007.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1008.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1008.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1009.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1009.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1010.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1010.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1011.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1011.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1012.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1012.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1013.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1013.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1014.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1014.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1015.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1015.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1016.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1016.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1017.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1017.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1018.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1018.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1019.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1019.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1020.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1020.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1021.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1021.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1022.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1022.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1023.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1023.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1024.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1024.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1025.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1025.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1026.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1026.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1027.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1027.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1028.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1028.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1029.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1029.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1030.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1030.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1031.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1031.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1032.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1032.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1049.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1049.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1050.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1050.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1051.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1051.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1052.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1052.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1053.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1053.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1054.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1054.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1055.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1055.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1056.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1056.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1057.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1057.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1069.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1069.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1070.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1070.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1071.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1071.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1072.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1072.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1073.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1073.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1074.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1074.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1075.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1075.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1076.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1076.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1077.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1077.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1078.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1078.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1088.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1088.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1089.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1089.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1090.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1090.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1091.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1091.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1092.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1092.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1093.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1093.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1094.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1094.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1095.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1095.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1096.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1096.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1097.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1097.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1098.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1098.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1109.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1109.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1110.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1110.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1111.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1111.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1112.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1112.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1113.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1113.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1114.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1114.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1115.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1115.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1116.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1116.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1117.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1117.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1118.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1118.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1132.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1132.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1133.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1133.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1134.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1134.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1135.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1135.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1136.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1136.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1137.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1137.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1138.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1138.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1139.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1139.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1140.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1140.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1141.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1141.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1142.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1142.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1143.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1143.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1144.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1144.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1145.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1145.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1151.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1151.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1152.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1152.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1153.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1153.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1154.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1154.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1155.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1155.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1156.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1156.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1157.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1157.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1158.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1158.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1159.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1159.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1160.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1160.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1161.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1161.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1162.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1162.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1163.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1163.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1164.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1164.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1165.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1165.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1166.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1166.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1167.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1167.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1168.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1168.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1169.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1169.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1170.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1170.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1171.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1171.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1172.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1172.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1173.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1173.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\1175.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\1175.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5001.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5001.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5002.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5002.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5003.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5003.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5004.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5004.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5005.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5005.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5006.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5006.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5007.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5007.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5008.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5008.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5009.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5009.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5010.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5010.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5011.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5011.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5012.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5012.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5013.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5013.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5014.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5014.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5015.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5015.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5016.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5016.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5018.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5018.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5019.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5019.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5020.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5020.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5021.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5021.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5022.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5022.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5023.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5023.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5024.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5024.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5025.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5025.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5026.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5026.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5028.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5028.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5029.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5029.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\5030.jpeg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\5030.jpeg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD01.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD01.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD02.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD02.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD03.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD03.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD04.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD04.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD05.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD05.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD06.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD06.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD07.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD07.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD08.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD08.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD09.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD09.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD10.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD10.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD11.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD11.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD12.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD12.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD13.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD13.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD14.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD14.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD15.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD15.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD16.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD16.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD17.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD17.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD18.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD18.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD19.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD19.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\Anhct\\images\\STD20.jpg",
+      "PackagePath": "staticwebassets\\Anhct\\images\\STD20.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\children.jpg",
+      "PackagePath": "staticwebassets\\images\\children.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\cloth_1.jpg",
+      "PackagePath": "staticwebassets\\images\\cloth_1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\cloth_2.jpg",
+      "PackagePath": "staticwebassets\\images\\cloth_2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\cloth_3.jpg",
+      "PackagePath": "staticwebassets\\images\\cloth_3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\hero_1.png",
+      "PackagePath": "staticwebassets\\images\\hero_1.png"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\images\\men.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\shoe.png",
+      "PackagePath": "staticwebassets\\images\\shoe.png"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\shoe_1.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_1.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\images\\women.jpg"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "T:\\Wep\\learnCode\\LearnAspnetcore\\ASPNET_MVC\\PhamTrungKien\\PhamTrungKien\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PhamTrungKien.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PhamTrungKien.props",
+      "PackagePath": "build\\PhamTrungKien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PhamTrungKien.props",
+      "PackagePath": "buildMultiTargeting\\PhamTrungKien.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PhamTrungKien.props",
+      "PackagePath": "buildTransitive\\PhamTrungKien.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
